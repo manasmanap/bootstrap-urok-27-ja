@@ -7,3 +7,19 @@
     background-size: cover;
 
 }
+
+.slider {
+  
+    img {
+        height: 400px;
+        object-fit: cover;
+    }
+}
+
+.nested {
+
+    img {
+    height: 250px;
+    object-fit: cover;
+    }
+}

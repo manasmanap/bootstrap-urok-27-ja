@@ -6,3 +6,15 @@
   background-position: center;
   background-size: cover;
 }
+
+.slider img {
+  height: 400px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.nested img {
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
